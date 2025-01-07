@@ -1,2 +1,10 @@
-streamlit
-openai
+streamlit 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn 
+fpdf
+plotly
+shap
+kaleido
