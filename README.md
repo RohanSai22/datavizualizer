@@ -51,7 +51,7 @@ The **Automated Report Generator** is a Streamlit-based web application that sim
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rohansai2208/automated-report-generator.git
+   git clone https://github.com/RohanSai22/datavizualizer
    cd automated-report-generator
    ```
 2. Install the dependencies:
@@ -61,7 +61,7 @@ The **Automated Report Generator** is a Streamlit-based web application that sim
 
 3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 ---
